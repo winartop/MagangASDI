@@ -1,0 +1,13 @@
+{
+    "require": {
+        "mpdf/mpdf": "^7.1"
+    }
+}
+
+
+{
+  "name" : "html2pdf/codeigniter",
+  "require": {
+    "dompdf/dompdf" : "0.6.*"
+  }
+}
